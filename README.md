@@ -21,3 +21,7 @@ Go to the Downloads folder and extract the zip .Then go to extracted folder and 
 ```
 thats it !
 
+## Improvements to be done in further commits
+
+Adding support for windows . Currently server only works in base system , it can't be accessed by other client in same LAN .
+Since ip is private it can't be accessed by public world
