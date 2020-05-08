@@ -17,7 +17,7 @@ This project is made for systems which have base os linux You also need to insta
 Go to the Downloads folder and extract the zip .Then go to extracted folder and and then open terminal then run 
 
 ```
-./menu
+./main
 ```
 thats it !
 
