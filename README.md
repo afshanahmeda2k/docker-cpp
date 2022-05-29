@@ -27,7 +27,8 @@ Adding support for windows . Currently server only works in base system , it can
 Since ip is private it can't be accessed by public world
 
 ## Screenshots
-https://user-images.githubusercontent.com/60838316/81143872-848b3680-8f90-11ea-8494-c4eec9d73f85.png
-https://user-images.githubusercontent.com/60838316/81143992-c4eab480-8f90-11ea-9e51-0bc42078b8ec.png
-https://user-images.githubusercontent.com/60838316/81144022-d764ee00-8f90-11ea-9420-b4bc70d485d0.png
-https://user-images.githubusercontent.com/60838316/81144059-e77ccd80-8f90-11ea-94a0-373510430899.png
+
+![screenshot-1](https://user-images.githubusercontent.com/60838316/81143872-848b3680-8f90-11ea-8494-c4eec9d73f85.png)
+![screenshot-2](https://user-images.githubusercontent.com/60838316/81143992-c4eab480-8f90-11ea-9e51-0bc42078b8ec.png)
+![screenshot-3](https://user-images.githubusercontent.com/60838316/81144022-d764ee00-8f90-11ea-9420-b4bc70d485d0.png)
+![screenshot-4](https://user-images.githubusercontent.com/60838316/81144059-e77ccd80-8f90-11ea-94a0-373510430899.png)
